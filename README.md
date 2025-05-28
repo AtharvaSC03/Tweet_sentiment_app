@@ -19,12 +19,6 @@ Analyze real-time tweets based on keywords or hashtags and determine the **senti
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](https://your-screenshot-url-if-any)
-
----
-
 ## 🧠 Features
 
 ✅ Real-time tweet fetching via Twitter API  

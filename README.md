@@ -14,7 +14,7 @@ Analyze real-time tweets based on keywords or hashtags and determine the **senti
 
 ## 🚀 Demo
 
-👉 [Click here to try the app live on Streamlit Cloud]([https://share.streamlit.io/your-username/tweet-sentiment-app/main/tweet_sentiment_app.py](https://tweetsentimentapp.streamlit.app/))  
+👉 [Click here to try the app live on Streamlit Cloud]([https://tweetsentimentapp.streamlit.app/))  
 *(Replace with your actual Streamlit URL)*
 
 ---
